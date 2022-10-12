@@ -15,11 +15,11 @@
 }
 
 body {
-  background-color: blueviolet;
+  background-color: white;
 }
 
 p {
-  color: blueviolet;
+  color: black;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
